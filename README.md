@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pratikjmadiwale
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently studying Mechanical Engineering(1st Year)
+- 🌱 I’m currently studying Mechanical Engineering (1st Year)
 
 
 <!---
